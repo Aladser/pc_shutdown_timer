@@ -135,6 +135,10 @@ namespace PCShutdownTimer
                     String aM = alarmMinute < 10 ? "0" + alarmMinute : alarmMinute.ToString();
                     notifyIcon.Text = "Компьютер будет в выключен  в " + aH + ":" + aM;
                 }
+                else
+                {
+                    notifyIcon.Text = "Таймер выключения компьютера неактивен";
+                }
             }
         }
         private void notifyIcon_MouseClick(object sender, MouseEventArgs e)
