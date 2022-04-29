@@ -110,7 +110,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(388, 153);
+            this.ClientSize = new System.Drawing.Size(388, 149);
             this.Controls.Add(this.timerLabel);
             this.Controls.Add(this.alarmCheckBox);
             this.Controls.Add(this.colonLabel);

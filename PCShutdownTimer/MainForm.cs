@@ -131,7 +131,9 @@ namespace PCShutdownTimer
                 notifyIcon.Visible = true;
                 if (isAlarm)
                 {
-                    notifyIcon.Text = "Компьютер будет в выключен в " + alarmHour  + ":" + alarmMinute;
+                    String aH = alarmHour < 10 ? "0" + alarmHour : alarmHour.ToString();
+                    String aM = alarmMinute < 10 ? "0" + alarmMinute : alarmMinute.ToString();
+                    notifyIcon.Text = "Компьютер будет в выключен  в " + aH + ":" + aM;
                 }
             }
         }
