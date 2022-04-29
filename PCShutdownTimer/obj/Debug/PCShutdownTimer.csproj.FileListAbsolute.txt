@@ -1,0 +1,9 @@
+C:\Projects\PCShutdownTimer\PCShutdownTimer\bin\Debug\PCShutdownTimer.exe
+C:\Projects\PCShutdownTimer\PCShutdownTimer\bin\Debug\PCShutdownTimer.pdb
+C:\Projects\PCShutdownTimer\PCShutdownTimer\obj\Debug\PCShutdownTimer.csproj.AssemblyReference.cache
+C:\Projects\PCShutdownTimer\PCShutdownTimer\obj\Debug\PCShutdownTimer.Properties.Resources.resources
+C:\Projects\PCShutdownTimer\PCShutdownTimer\obj\Debug\PCShutdownTimer.csproj.GenerateResource.cache
+C:\Projects\PCShutdownTimer\PCShutdownTimer\obj\Debug\PCShutdownTimer.csproj.CoreCompileInputs.cache
+C:\Projects\PCShutdownTimer\PCShutdownTimer\obj\Debug\PCShutdownTimer.exe
+C:\Projects\PCShutdownTimer\PCShutdownTimer\obj\Debug\PCShutdownTimer.pdb
+C:\Projects\PCShutdownTimer\PCShutdownTimer\obj\Debug\PCShutdownTimer.MainForm.resources
